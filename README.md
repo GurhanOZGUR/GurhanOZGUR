@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋 I am Gürhan</h1>
 <p align="center">
 <b>An IT Specialist and Software Developer from Bursa/TURKEY</b>
+</p>
+<p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=gurhanozgur"
   alt="gurhanozgur"
   style="max-width: 100%"
