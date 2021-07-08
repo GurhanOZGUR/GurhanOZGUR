@@ -3,10 +3,12 @@
 <b>An IT Specialist and Software Developer from Bursa/TURKEY</b>
 </p>
 <p align="center">
+<a href="https://github.com/ryo-ma/github-profile-trophy">
 <img src="https://github-profile-trophy.vercel.app/?username=gurhanozgur"
   alt="gurhanozgur"
   style="max-width: 100%"
 />
+</a>
 </p>
 
 - 🔭 I’m currently working on C# at the company i work for.
