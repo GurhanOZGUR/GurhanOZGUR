@@ -12,8 +12,7 @@
 </p>
 
 - 🔭 I’m currently working on C# at the company i work for.
-- 🌱 I’m currently learning React for Web, React Native for Mobile, NodeJs for Backend.
-- 👯 I’m looking to collaborate on React-Native.
+- 🌱 I’m currently learning everything.
 
 ### You Can Connect With Me;
 <a href="https://www.instagram.com/gurhanozgur/" target="_blank">
