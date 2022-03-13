@@ -11,7 +11,7 @@
 </a>
 </p>
 
-- 🔭 I’m currently working on C# at the company i work for.
+- 🔭 I’m currently working on .Net technologies at the company i work for.
 - 🌱 I’m currently learning everything.
 
 ### You Can Connect With Me;
