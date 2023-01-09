@@ -15,7 +15,7 @@
 - 🌱 I’m currently learning everything.
 
 ### You Can Connect With Me;
-<a href="https://www.linkedin.com/in/gurhan-ozgur/" target="blank">
+<a href="https://www.linkedin.com/in/gurhan-ozgur/" target="_blank">
 <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" 
      alt="inProfile" 
      width="30"/>
