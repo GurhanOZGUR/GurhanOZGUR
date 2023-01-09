@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋 I am Gürhan</h1>
 <p align="center">
-<b>An IT Specialist and Software Developer from Bursa/TURKEY</b>
+<b>An IT Specialist and Software Manager from Bursa/TURKEY</b>
 </p>
 <p align="center">
 <a href="https://github.com/ryo-ma/github-profile-trophy">
@@ -15,13 +15,14 @@
 - 🌱 I’m currently learning everything.
 
 ### You Can Connect With Me;
+<a href="https://www.linkedin.com/in/gurhan-ozgur/" target="_blank">
+<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" 
+     alt="inProfile" 
+     width="30"/>
+</a>
+
 <a href="https://www.instagram.com/gurhanozgur/" target="_blank">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png" 
      alt="igProfile" 
-     width="30"/>
-</a>
-<a href="https://twitter.com/Gurhan_OZGUR" target="_blank">
-<img src="https://pbs.twimg.com/profile_images/531381005165158401/bUJYaSO9_400x400.png" 
-     alt="Profile" 
      width="30"/>
 </a>
