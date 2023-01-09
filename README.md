@@ -15,12 +15,11 @@
 - 🌱 I’m currently learning everything.
 
 ### You Can Connect With Me;
-<a href="https://www.linkedin.com/in/gurhan-ozgur/" target="_blank">
+<a href="https://www.linkedin.com/in/gurhan-ozgur/" target="blank">
 <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" 
      alt="inProfile" 
      width="30"/>
 </a>
-
 <a href="https://www.instagram.com/gurhanozgur/" target="_blank">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png" 
      alt="igProfile" 
